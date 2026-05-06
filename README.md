@@ -129,3 +129,6 @@ The API returns an array of patient objects. Below is an example response struct
 - Static files such as the logo, UI icons, doctor image, and layout styling are stored in the `public/icons` folder.
 - The dashboard is designed to match the Adobe XD reference as closely as possible.
 - The app focuses only on Jessica Taylor’s data as required by the task instructions.
+
+
+![image alt](https://github.com/pearl31patel/HealthCare-Dashboard/blob/724ad6fc2359d4672221b2466a803e46d698760c/dashboard.png)

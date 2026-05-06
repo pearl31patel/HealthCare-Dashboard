@@ -23,7 +23,7 @@ This project is a React single-page healthcare dashboard that displays patient i
 
 ## API Used
 
-The project uses the Coalition Technologies Patient Data API with Basic Authentication.
+The project uses the Patient Data API with Basic Authentication.
 
 ```js
 const API_URL = "https://fedskillstest.coalitiontechnologies.workers.dev";

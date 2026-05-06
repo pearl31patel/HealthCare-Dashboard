@@ -1,6 +1,6 @@
 # Tech.Care Patient Dashboard
 
-Hello, my name is Pearl Patel, and this project is a React single-page dashboard built for the Front End Developer Skills Test for Coalition Technologies. It displays patient information for Jessica Taylor using live API data.
+This project is a React single-page healthcare dashboard that displays patient information using live API data. It shows patient details, diagnosis history, vital signs, lab results, and health metrics in a clean and responsive user interface.
 
 ## Features
 
